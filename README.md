@@ -3,6 +3,8 @@
 The objective of this project is to predict the final price of a house using regression techniques. The final model's performance was determined by the Root Mean Squared Error.
 ## Summary 
 1. Explored the Data
+    * found highly correlated features with the target varable
+    * removed outliers
 2. Cleaned the Data
     * removed columns with a significant amount of missing values
     * filled missing values with zero,median,or None.
