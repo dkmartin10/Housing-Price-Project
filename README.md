@@ -13,4 +13,5 @@ The objective of this project is to predict the final price of a house using reg
     * created more features that gave us better insight.
 5. Built different regression models
     * used grid search as well as randomized search to find the hyperparamaters.
+
 ![](images/Housing%20Price%20RMSE.png)
